@@ -116,6 +116,55 @@
 <tr>
 <td><b>Kewarganegaraan</b></td>
 <td>:</td>
+
+css
+table,tr,td{
+background-color: transparent ;
+font-family: Times new roman;
+font-size: 16px;
+color: black;
+}
+
+.posisi{
+position: fixed;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+bottom: 550px;
+}
+.posisi1{
+position: fixed;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+bottom: 300px;
+}
+.posisi2{
+position: fixed;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+bottom: 50px;
+}
+body{
+    background-color: lightblue;
+    height: 100%;
+    background-position: all;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+h1{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+bottom: 780px
+}
 <td>Indonesia</td>
 </tr>
 </table>
