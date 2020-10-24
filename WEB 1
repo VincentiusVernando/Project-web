@@ -116,6 +116,8 @@
 <tr>
 <td><b>Kewarganegaraan</b></td>
 <td>:</td>
+<td>Indonesia</td>
+</tr>
 
 css
 table,tr,td{
@@ -165,8 +167,7 @@ margin-bottom: auto;
 margin-top: auto;
 bottom: 780px
 }
-<td>Indonesia</td>
-</tr>
+
 </table>
 </form>
 </body>
