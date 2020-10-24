@@ -63,13 +63,6 @@
 </table>
 </form>
 </body>
-table,tr,td{
-background-color: transparent ;
-font-family: Times new roman;
-font-size: 16px;
-color: black;
-}
-
 <body>
 <form action="#" style="width: 500px"class="posisi1";>
 <table style="width: 400px;">
