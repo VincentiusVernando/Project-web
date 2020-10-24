@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Biodata</title>
+<h1 style="font-size:35px;"> KELOMPOK</h1>
+<link rel="stylesheet" href="tes.css"/>
+</head>
+<body>
+<form action="#" style="width: 500px"class="posisi";>
+<table style="width: 400px;">
+<td style="font-size: 20px;"><b><u>Anggota ke-1</u></b></td>
+<tr>
+<td><b>Nama Lengkap</b></td>
+<td>:</td>
+<td>Daffa rahmatul a.z</td>
+</tr>
+<tr>
+<td><b>Nama Panggilan</b></td>
+<td>:</td>
+<td>Daffa</td>
+</tr>
+<tr>
+<td><b>Tempat, Tanggal Lahir</b></td>
+<td>:</td>
+<td>Surabaya, 05 Maret 2000</td>
+</tr>
+<tr>
+<td><b>Umur</b></td>
+<td>:</td>
+<td>20 Tahun</td>
+</tr>
+<tr>
+<td><b>Jenis Kelamin</b></td>
+<td>:</td>
+<td>Laki - Laki</td>
+</tr>
+<tr>
+<td><b>Gol. Darah</b></td>
+<td>:</td>
+<td>B</td>
+</tr>
+<tr>
+<td><b>Agama</b></td>
+<td>:</td>
+<td>Islam</td>
+</tr>
+<tr>
+<td><b>Alamat</b></td>
+<td>:</td>
+<td>Jln. Peneleh VI no 27 , Surabaya</td>
+</tr>
+<tr>
+<td><b>Pekerjaan</b></td>
+<td>:</td>
+<td>Mahasiswa</td>
+</tr>
+<tr>
+<td><b>Kewarganegaraan</b></td>
+<td>:</td>
+<td>Indonesia</td>
+</tr>
+</table>
+</form>
+</body>
+
+<body>
+<form action="#" style="width: 500px"class="posisi1";>
+<table style="width: 400px;">
+<td style="font-size: 20px;"><b><u>Anggota ke-2</u></b></td>
+<tr>
+<td><b>Nama Lengkap</b></td>
+<td>:</td>
+<td>Vincentius Vernando W</td>
+</tr>
+<tr>
+<td><b>Nama Panggilan</b></td>
+<td>:</td>
+<td>edo</td>
+</tr>
+<tr>
+<td><b>Tempat, Tanggal Lahir</b></td>
+<td>:</td>
+<td>Surabaya, 03 April 2000</td>
+</tr>
+<tr>
+<td><b>Umur</b></td>
+<td>:</td>
+<td>20 Tahun</td>
+</tr>
+<tr>
+<td><b>Jenis Kelamin</b></td>
+<td>:</td>
+<td>Laki - Laki</td>
+</tr>
+<tr>
+<td><b>Gol. Darah</b></td>
+<td>:</td>
+<td>-</td>
+</tr>
+<tr>
+<td><b>Agama</b></td>
+<td>:</td>
+<td>Katolik</td>
+</tr>
+<tr>
+<td><b>Alamat</b></td>
+<td>:</td>
+<td>Wisma Indah 2 k6/20</td>
+</tr>
+<tr>
+<td><b>Pekerjaan</b></td>
+<td>:</td>
+<td>Mahasiswa</td>
+</tr>
+<tr>
+<td><b>Kewarganegaraan</b></td>
+<td>:</td>
+<td>Indonesia</td>
+</tr>
+</table>
+</form>
+</body>
+<body>
