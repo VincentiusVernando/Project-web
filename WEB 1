@@ -63,7 +63,6 @@
 </table>
 </form>
 </body>
-
 <body>
 <form action="#" style="width: 500px"class="posisi1";>
 <table style="width: 400px;">
@@ -122,3 +121,61 @@
 </form>
 </body>
 <body>
+
+<form action="#" style="width: 500px"class="posisi2";>
+<table style="width: 400px;">
+<td style="font-size: 20px;"><u><b>Anggota ke-3</u></b></td>
+<tr>
+<td><b>Nama Lengkap</b></td>
+<td>:</td>
+<td>Iqbal Mustofa Gidnah</td>
+</tr>
+<tr>
+<td><b>Nama Panggilan</b></td>
+<td>:</td>
+<td>Iqbal</td>
+</tr>
+<tr>
+<td><b>Tempat, Tanggal Lahir</b></td>
+<td>:</td>
+<td>Surabaya, 17 Januari 2000</td>
+</tr>
+<tr>
+<td><b>Umur</b></td>
+<td>:</td>
+<td>20 Tahun</td>
+</tr>
+<tr>
+<td><b>Jenis Kelamin</b></td>
+<td>:</td>
+<td>Laki - Laki</td>
+</tr>
+<tr>
+<td><b>Gol. Darah</b></td>
+<td>:</td>
+<td>B</td>
+</tr>
+<tr>
+<td><b>Agama</b></td>
+<td>:</td>
+<td>Islam</td>
+</tr>
+<tr>
+<td><b>Alamat</b></td>
+<td>:</td>
+<td>Sidotopo 2 no 10 Surabaya</td>
+</tr>
+<tr>
+<td><b>Pekerjaan</b></td>
+<td>:</td>
+<td>Mahasiswa</td>
+</tr>
+<tr>
+<td><b>Kewarganegaraan</b></td>
+<td>:</td>
+<td>Indonesia</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
